@@ -270,8 +270,8 @@ button {
     width: 85%;
     float: left;
     color: #ffffff;
-    font-size: 50px;
-    font-weight: bold;
+    font-size: 75px;
+    font-weight: normal;
     line-height: 70px;
 }
 
@@ -294,14 +294,14 @@ button {
     float: left;
     font-size: 18px;
     color: #ffffff;
-    background-color: #df9911;
+    background-color: #ff7f55;
     text-align: center;
     padding: 7px 0px;
     border-radius: 40px;
 }
 
 .see_bt a:hover {
-    color: #000;
+    color: #ff7f55;
     background-color: #ffffff;
 }
 
